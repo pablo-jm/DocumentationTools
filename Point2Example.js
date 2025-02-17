@@ -1,4 +1,4 @@
-/* 1-.Creamos e iniciamos proyecto (si no se tiene ya) con: mkdir mi-proyecto
+/* 1- Creamos e iniciamos proyecto (si no se tiene ya) con: mkdir mi-proyecto
 cd mi-proyecto
 npm init -y */
 
