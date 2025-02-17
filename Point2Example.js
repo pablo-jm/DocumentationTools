@@ -1,7 +1,11 @@
-// Usaremos en la terminal: npm install --save-dev jsdoc para la instalación del JsDoc.
+/* 1-.Creamos e iniciamos proyecto (si no se tiene ya) con: mkdir mi-proyecto
+cd mi-proyecto
+npm init -y */
 
+// 2- Usaremos en la terminal: npm install --save-dev jsdoc para la instalación del JsDoc.
 // JSDoc utiliza comentarios especiales para documentar funciones, clases y módulos.
 
+// 3- Documentacion en comentarios.
 /**
  * Módulo de cálculo matemático.
  * @module Calculadora
